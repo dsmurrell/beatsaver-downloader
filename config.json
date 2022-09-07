@@ -1,0 +1,13 @@
+{
+  "ranked": "True",
+  "sortOrder": "Rating",
+  "minRating": 0.7,
+  "from": "2018-07-01",
+  "to": "2020-07-01",
+  "minDuration": 120,
+  "maxDuration": 360,
+  "minNps": 4,
+  "maxNps": 6,
+  "minBpm": 100,
+  "maxBpm": 250
+}
